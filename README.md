@@ -1,3 +1,5 @@
+### My team's 2nd place solution in [Google - Isolated Sign Language Recognition Kaggle competition](https://www.kaggle.com/competitions/asl-signs/leaderboard)
+
 # Solution
 
 ## TLDR
